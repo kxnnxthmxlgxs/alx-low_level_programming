@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 #include "main.h"
 
 /**
@@ -45,4 +42,4 @@ void print_times_table(int n)
 		}
 	}
 }
->>>>>>> 5ca0e930c896d32e85145766cc0773bd5b0b4c8b
+
