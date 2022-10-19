@@ -32,7 +32,7 @@ int main(void)
 		second = next;
 
 		next = first + second;
-		count++
+		count++;
 	}
 	return (0);
 }
