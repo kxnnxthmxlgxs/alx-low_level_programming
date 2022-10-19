@@ -2,7 +2,8 @@
 /**
  * main - Entry point
  *
- * Description: program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2
+ * Description: program that finds and prints the first 98 Fibonacci
+ *		numbers, starting with 1 and 2
  *
  * Return: Always 0 successfuul
  */
@@ -12,7 +13,7 @@ int main(void)
 
 	int i;
 
-	for (i = 1; i <+ 998; i++)
+	for (i = 1; i <= 98; i++)
 	{
 		s = t0 + t1;
 
