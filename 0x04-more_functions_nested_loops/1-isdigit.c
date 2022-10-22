@@ -2,7 +2,7 @@
 
 /**
  * _isdigit - checks if a char is a digit
- * @c: int to be chhecked
+ * @c: int to be checked
  * Return: 1 if c is a digit, 0 otherwise
  */
 int _isdigit(int c)
