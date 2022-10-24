@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * puts2 - this function print only the even numbers.
  * @str: is the principal parameter.
