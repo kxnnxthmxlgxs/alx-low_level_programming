@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * swap_int - this functoin change the initial.
  * @a: this is a parameter to change.
