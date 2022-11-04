@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+
 /**
   * main - Prints the sum of args positive numbers
   * @argc: argument count
@@ -10,10 +11,15 @@
   *
   * Return: Always zero
   */
+
 int main(int argc, char *argv[])
+
 {
+
 	int i;
+
 	unsigned int k, sum = 0;
+
 	char *e;
 
 	if (argc > 1)
@@ -27,11 +33,13 @@ int main(int argc, char *argv[])
 				if (e[k] < 48 || e[k] > 57)
 				{
 					printf("Error\n");
+
 					return (1);
 				}
 			}
 
 			sum += atoi(e);
+
 			e++;
 		}
 
