@@ -17,6 +17,7 @@ void print_a_char_ptr(char *separator, va_list args);
  * @identifier: The conversion specifier
  * @f: The function pointer
  */
+
 typedef struct format_types
 {
 	char *identifier;
